@@ -6,7 +6,7 @@ Emulatuer créer par (Celestral)
 
 Quand il y aura l'ouverture du serveur avec (site) Aura lieu Event XP (X2)
 
-              (Rate du Server)
+              (Rate Officiel du Server)
               
     <add key="RateXp" value="540" />
     <add key="RateXpHero" value="300" />
